@@ -16,5 +16,3 @@ const parsebody = (req) => {
 };
 
 module.exports = { parsebody };
-
-export GIT_AUTHOR_DATE="2026-02-24 17:19:47" export GIT_COMMITTER_DATE="2026-02-24 17:19:47"
