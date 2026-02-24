@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "fathi"
+    },
+    {
+      "id": 2,
+      "name": "mouad"
+    },
+    {
+      "id": 3,
+      "name": "ayoub"
+    },
+    {
+      "id": 4,
+      "name": "othmane"
+    }
+  ],
+  "wallets": [
+    {
+      "id": 1774038792072,
+      "userName": "fathi",
+      "userId": 1,
+      "sold": 0
+    },
+    {
+      "id": 1774038801057,
+      "userName": "mouad",
+      "userId": 2,
+      "sold": 0
+    },
+    {
+      "id": 1774038808610,
+      "userName": "ayoub",
+      "userId": 3,
+      "sold": 0
+    },
+    {
+      "id": 1774038823493,
+      "userName": "othmane",
+      "userId": 4,
+      "sold": 0
+    }
+  ]
+}
